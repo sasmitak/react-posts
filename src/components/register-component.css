@@ -1,0 +1,18 @@
+body{
+    background-image: url(../../public/images/background.jpg);
+    font-size: 15px;
+    background-size: cover;
+}
+.form-content{
+    width: 300px;
+    height: 500px;
+    margin-left: 500px;
+    
+}
+h2,h4{
+    text-align: center;
+}
+#p1{
+    margin-top: 15px;
+
+}

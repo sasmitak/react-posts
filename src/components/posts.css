@@ -1,0 +1,16 @@
+.card{
+    width: 200px;
+}
+.card:nth-child(odd){
+    background-color: aquamarine;
+}
+.card:nth-child(even){
+    background-color: lightgrey;
+}
+.header{
+    padding: 10px;
+    text-align: center;
+    background: rgb(86, 187, 140);
+    color: white;
+    font-size: 30px;
+}
